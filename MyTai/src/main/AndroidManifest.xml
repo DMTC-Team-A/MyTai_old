@@ -26,6 +26,7 @@
         <activity
             android:name="jp.jagaimo.mytai.SettingsActivity"
             android:label="@string/title_activity_settings"
+            android:screenOrientation="portrait"
             android:parentActivityName="TopActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

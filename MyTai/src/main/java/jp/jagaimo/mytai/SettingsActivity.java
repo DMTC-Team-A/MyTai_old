@@ -19,6 +19,7 @@ public class SettingsActivity extends Activity {
             @Override
             public void onClick(View view) {
                 //他のEditTextとかから情報取ってきて保存
+
                 //ページ処理
             }
         });
